@@ -30,6 +30,8 @@ bld/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+*/.vs
+
 # SV auto generated test doc files and directories
 */SV/pcom/doc/*utp.lst
 */SV/pcom/doc/*content.lst
